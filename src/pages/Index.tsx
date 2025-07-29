@@ -1,6 +1,5 @@
 const Index = () => {
-  return (
-    <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
+  return <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
       {/* Floating Background Orbs */}
       <div className="fixed inset-0 pointer-events-none">
         <div className="floating-orb"></div>
@@ -29,9 +28,7 @@ const Index = () => {
       <section id="hero" className="min-h-screen flex items-center justify-center relative px-6">
         <div className="text-center space-y-8 animate-slide-in-up">
           <div className="space-y-4">
-            <h1 className="text-5xl md:text-7xl font-bold text-glow">
-              Alex Chen
-            </h1>
+            <h1 className="text-5xl md:text-7xl font-bold text-glow">Surya Vikas</h1>
             <h2 className="text-2xl md:text-3xl text-secondary text-glow-secondary">
               Student & Aspiring Full Stack Developer
             </h2>
@@ -62,42 +59,35 @@ const Index = () => {
             <h2 className="text-4xl font-bold mb-8 text-center text-glow">About Me</h2>
             <div className="grid md:grid-cols-2 gap-12">
               <div className="space-y-6">
-                <p className="text-lg leading-relaxed">
-                  I'm currently a Computer Science student at Tech University, passionate about creating 
-                  innovative web applications and exploring the latest technologies. My journey in programming 
-                  started with curiosity and has evolved into a deep love for problem-solving and creating 
-                  digital experiences.
-                </p>
-                <p className="text-lg leading-relaxed">
-                  When I'm not coding, you can find me contributing to open-source projects, reading tech blogs, 
-                  or experimenting with new frameworks. I believe in continuous learning and pushing the 
-                  boundaries of what's possible with code.
-                </p>
+                <p className="text-lg leading-relaxed">Hi! I'm Surya Vikas, a dedicated student with a strong interest in web development and technology. I’m currently learning full stack development, starting with HTML, CSS, and JavaScript, and gradually diving into frameworks like React and tools like Git and GitHub. I’m also beginning to explore backend development to build complete, end-to-end web applications.
+
+I enjoy the creative process of building websites—from designing user interfaces to writing clean, functional code. Whether it’s a small personal project or a group assignment, I always try to bring a thoughtful, problem-solving mindset to my work.
+              </p>
+                
               </div>
               <div className="space-y-6">
                 <h3 className="text-2xl font-semibold text-secondary">Skills & Technologies</h3>
                 <div className="flex flex-wrap gap-3">
-                  {[
-                    'JavaScript', 'TypeScript', 'React', 'Node.js', 'Python', 'HTML/CSS',
-                    'Git', 'PostgreSQL', 'MongoDB', 'Tailwind CSS', 'Express.js', 'Firebase'
-                  ].map((skill) => (
-                    <span key={skill} className="skill-badge">
+                  {['JavaScript', 'TypeScript', 'React', 'Node.js', 'Python', 'HTML/CSS', 'Git', 'PostgreSQL', 'MongoDB', 'Tailwind CSS', 'Express.js', 'Firebase'].map(skill => <span key={skill} className="skill-badge">
                       {skill}
-                    </span>
-                  ))}
+                    </span>)}
                 </div>
                 <div className="space-y-4">
                   <h4 className="text-xl font-semibold text-accent">Academic Timeline</h4>
                   <div className="space-y-3">
                     <div className="glass rounded-lg p-4">
-                      <h5 className="font-semibold text-primary">2022 - Present</h5>
-                      <p>Bachelor of Computer Science - Tech University</p>
-                      <p className="text-sm text-muted-foreground">GPA: 3.8/4.0</p>
+                      <h5 className="font-semibold text-primary">2023 - present</h5>
+                      <p>Bachelor of Technology in Information Technology</p>
+                      <p className="text-sm text-muted-foreground">GPA: 9.12/10/0</p>
                     </div>
                     <div className="glass rounded-lg p-4">
-                      <h5 className="font-semibold text-primary">2023</h5>
-                      <p>Full Stack Web Development Certification</p>
-                      <p className="text-sm text-muted-foreground">FreeCodeCamp</p>
+                      <h5 className="font-semibold text-primary">2021 - 2023</h5>
+                      <p>Sri chaitanya junior college
+- MPC
+
+
+                    </p>
+                      <p className="text-sm text-muted-foreground">GPA: 9.54/10</p>
                     </div>
                   </div>
                 </div>
@@ -123,11 +113,9 @@ const Index = () => {
                 collaboration, drag-and-drop interface, and team analytics.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {['React', 'Firebase', 'TypeScript', 'Tailwind'].map((tech) => (
-                  <span key={tech} className="skill-badge text-xs">
+                {['React', 'Firebase', 'TypeScript', 'Tailwind'].map(tech => <span key={tech} className="skill-badge text-xs">
                     {tech}
-                  </span>
-                ))}
+                  </span>)}
               </div>
               <div className="flex space-x-4">
                 <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
@@ -150,11 +138,9 @@ const Index = () => {
                 Integrates with Spotify API for seamless playback.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {['Node.js', 'Express', 'MongoDB', 'Spotify API'].map((tech) => (
-                  <span key={tech} className="skill-badge text-xs">
+                {['Node.js', 'Express', 'MongoDB', 'Spotify API'].map(tech => <span key={tech} className="skill-badge text-xs">
                     {tech}
-                  </span>
-                ))}
+                  </span>)}
               </div>
               <div className="flex space-x-4">
                 <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
@@ -177,11 +163,9 @@ const Index = () => {
                 Built with Python backend and React frontend.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {['Python', 'Flask', 'React', 'D3.js', 'PostgreSQL'].map((tech) => (
-                  <span key={tech} className="skill-badge text-xs">
+                {['Python', 'Flask', 'React', 'D3.js', 'PostgreSQL'].map(tech => <span key={tech} className="skill-badge text-xs">
                     {tech}
-                  </span>
-                ))}
+                  </span>)}
               </div>
               <div className="flex space-x-4">
                 <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
@@ -364,8 +348,6 @@ const Index = () => {
           </div>
         </div>
       </footer>
-    </div>
-  );
+    </div>;
 };
-
 export default Index;
