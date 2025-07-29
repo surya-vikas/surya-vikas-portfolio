@@ -11,7 +11,7 @@ const Index = () => {
       <nav className="fixed top-0 w-full z-50 glass-card rounded-none border-l-0 border-r-0 border-t-0">
         <div className="container mx-auto px-6 py-4">
           <div className="flex justify-between items-center">
-            <div className="text-xl font-bold text-glow">Portfolio</div>
+            <div className="text-xl font-bold text-glow">Surya Vikas</div>
             <div className="hidden md:flex space-x-6">
               <a href="#hero" className="hover:text-primary transition-colors duration-300">Home</a>
               <a href="#about" className="hover:text-primary transition-colors duration-300">About</a>
@@ -107,11 +107,8 @@ I enjoy the creative process of building websites—from designing user interfac
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center">
                 <div className="text-6xl animate-glow">🚀</div>
               </div>
-              <h3 className="text-2xl font-bold mb-3 text-primary">TaskFlow</h3>
-              <p className="text-muted-foreground mb-4">
-                A modern task management application built with React and Firebase. Features real-time 
-                collaboration, drag-and-drop interface, and team analytics.
-              </p>
+              <h3 className="text-2xl font-bold mb-3 text-primary">Barcode Generator</h3>
+              <p className="text-muted-foreground mb-4">Built a responsive web application using HTML, CSS, and JavaScript that dynamically generates barcodes from user input, offering real-time preview and download functionality.</p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {['React', 'Firebase', 'TypeScript', 'Tailwind'].map(tech => <span key={tech} className="skill-badge text-xs">
                     {tech}
