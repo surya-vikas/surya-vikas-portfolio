@@ -129,11 +129,8 @@ I enjoy the creative process of building websites—from designing user interfac
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center">
                 <div className="text-6xl animate-glow">🎵</div>
               </div>
-              <h3 className="text-2xl font-bold mb-3 text-primary">MusicVibe</h3>
-              <p className="text-muted-foreground mb-4">
-                A music discovery platform that helps users find new songs based on their mood and preferences. 
-                Integrates with Spotify API for seamless playback.
-              </p>
+              <h3 className="text-2xl font-bold mb-3 text-primary">Clash of Keys</h3>
+              <p className="text-muted-foreground mb-4">Developed an engaging typing speed game using HTML, CSS, and JavaScript to help users improve typing accuracy and speed through real-time feedback and interactive UI elements</p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {['Node.js', 'Express', 'MongoDB', 'Spotify API'].map(tech => <span key={tech} className="skill-badge text-xs">
                     {tech}
@@ -154,11 +151,8 @@ I enjoy the creative process of building websites—from designing user interfac
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center">
                 <div className="text-6xl animate-glow">📊</div>
               </div>
-              <h3 className="text-2xl font-bold mb-3 text-primary">DataViz Dashboard</h3>
-              <p className="text-muted-foreground mb-4">
-                An interactive data visualization dashboard for analyzing student performance metrics. 
-                Built with Python backend and React frontend.
-              </p>
+              <h3 className="text-2xl font-bold mb-3 text-primary">Arogya sreenidhi</h3>
+              <p className="text-muted-foreground mb-4">Built a user-friendly web platform enabling online food ordering, real-time tracking, digital payments, and notifications to improve efficiency for students and canteen staff.</p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {['Python', 'Flask', 'React', 'D3.js', 'PostgreSQL'].map(tech => <span key={tech} className="skill-badge text-xs">
                     {tech}
@@ -278,19 +272,15 @@ I enjoy the creative process of building websites—from designing user interfac
                 <div className="space-y-4">
                   <div className="flex items-center space-x-3">
                     <div className="text-primary text-xl">📧</div>
-                    <span>alex.chen@email.com</span>
+                    <span>suryavikas1223@gmail.com</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <div className="text-primary text-xl">🔗</div>
-                    <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
-                      linkedin.com/in/alexchen
-                    </a>
+                    <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">linkedin.com/in/surya-vikas-thipirishetty</a>
                   </div>
                   <div className="flex items-center space-x-3">
                     <div className="text-primary text-xl">🐙</div>
-                    <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
-                      github.com/alexchen
-                    </a>
+                    <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">github.com/surya-vikas</a>
                   </div>
                 </div>
               </div>
