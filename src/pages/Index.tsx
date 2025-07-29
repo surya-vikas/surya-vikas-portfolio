@@ -105,7 +105,8 @@ I enjoy the creative process of building websites—from designing user interfac
             {/* Project 1 */}
             <div className="glass-card animate-slide-in-up">
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center">
-                <div className="text-6xl animate-glow">🚀</div>
+                <div className="text-6xl animate-glow">
+              </div>
               </div>
               <h3 className="text-2xl font-bold mb-3 text-primary">Barcode Generator</h3>
               <p className="text-muted-foreground mb-4">Built a responsive web application using HTML, CSS, and JavaScript that dynamically generates barcodes from user input, offering real-time preview and download functionality.</p>
@@ -127,7 +128,8 @@ I enjoy the creative process of building websites—from designing user interfac
             {/* Project 2 */}
             <div className="glass-card animate-slide-in-up">
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center">
-                <div className="text-6xl animate-glow">🎵</div>
+                <div className="text-6xl animate-glow">
+              </div>
               </div>
               <h3 className="text-2xl font-bold mb-3 text-primary">Clash of Keys</h3>
               <p className="text-muted-foreground mb-4">Developed an engaging typing speed game using HTML, CSS, and JavaScript to help users improve typing accuracy and speed through real-time feedback and interactive UI elements</p>
@@ -149,7 +151,8 @@ I enjoy the creative process of building websites—from designing user interfac
             {/* Project 3 */}
             <div className="glass-card animate-slide-in-up">
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center">
-                <div className="text-6xl animate-glow">📊</div>
+                <div className="text-6xl animate-glow">
+              </div>
               </div>
               <h3 className="text-2xl font-bold mb-3 text-primary">Arogya sreenidhi</h3>
               <p className="text-muted-foreground mb-4">Built a user-friendly web platform enabling online food ordering, real-time tracking, digital payments, and notifications to improve efficiency for students and canteen staff.</p>
