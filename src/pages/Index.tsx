@@ -222,26 +222,24 @@ I enjoy the creative process of building websites—from designing user interfac
       <section id="resume" className="py-20 px-6">
         <div className="container mx-auto max-w-4xl">
           <div className="glass-card animate-slide-in-up">
-            <h2 className="text-4xl font-bold mb-8 text-center text-glow">Resume</h2>
+            <h2 className="text-4xl font-bold mb-8 text-center text-glow">Certifications</h2>
             <div className="text-center mb-8">
-              <a href="#" className="neon-button">
-                Download PDF Resume
-              </a>
+              
             </div>
             <div className="grid md:grid-cols-2 gap-8">
               <div>
                 <h3 className="text-2xl font-semibold mb-4 text-secondary">Education</h3>
                 <div className="space-y-4">
                   <div className="glass rounded-lg p-4">
-                    <h4 className="font-bold text-primary">Bachelor of Computer Science</h4>
-                    <p className="text-muted-foreground">Tech University</p>
-                    <p className="text-sm text-accent">2022 - 2026 (Expected)</p>
-                    <p className="text-sm">GPA: 3.8/4.0</p>
+                    
+                    
+                    
+                    
                   </div>
                 </div>
               </div>
               <div>
-                <h3 className="text-2xl font-semibold mb-4 text-secondary">Certifications</h3>
+                
                 <div className="space-y-4">
                   <div className="glass rounded-lg p-4">
                     <h4 className="font-bold text-primary">Full Stack Web Development</h4>
