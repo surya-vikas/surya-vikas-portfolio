@@ -331,16 +331,16 @@ I enjoy the creative process of building websites—from designing user interfac
           <div className="text-center space-y-6">
             <div className="flex justify-center space-x-8">
               <a href="#" className="text-primary hover:text-secondary transition-all duration-300 hover:scale-110">
-                <span className="text-2xl">🔗</span>
+                <span className="text-2xl"></span>
               </a>
               <a href="#" className="text-primary hover:text-secondary transition-all duration-300 hover:scale-110">
-                <span className="text-2xl">🐙</span>
+                <span className="text-2xl"></span>
               </a>
               <a href="#" className="text-primary hover:text-secondary transition-all duration-300 hover:scale-110">
-                <span className="text-2xl">📧</span>
+                <span className="text-2xl"></span>
               </a>
               <a href="#" className="text-primary hover:text-secondary transition-all duration-300 hover:scale-110">
-                <span className="text-2xl">📱</span>
+                <span className="text-2xl"></span>
               </a>
             </div>
             <p className="text-muted-foreground">
