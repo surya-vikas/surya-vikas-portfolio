@@ -111,9 +111,10 @@ I enjoy the creative process of building websites—from designing user interfac
               <h3 className="text-2xl font-bold mb-3 text-primary">Barcode Generator</h3>
               <p className="text-muted-foreground mb-4">Built a responsive web application using HTML, CSS, and JavaScript that dynamically generates barcodes from user input, offering real-time preview and download functionality.</p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {['React', 'Firebase', 'TypeScript', 'Tailwind'].map(tech => <span key={tech} className="skill-badge text-xs">
-                    {tech}
-                  </span>)}
+                <span className="skill-badge text-xs">React</span>
+                <span className="skill-badge text-xs">Firebase</span>
+                <span className="skill-badge text-xs">TypeScript</span>
+                <span className="skill-badge text-xs">Tailwind</span>
               </div>
               <div className="flex space-x-4">
                 <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
