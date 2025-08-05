@@ -68,9 +68,18 @@ I enjoy the creative process of building websites—from designing user interfac
               <div className="space-y-6">
                 <h3 className="text-2xl font-semibold text-secondary">Skills & Technologies</h3>
                 <div className="flex flex-wrap gap-3">
-                  {['JavaScript', 'TypeScript', 'React', 'Node.js', 'Python', 'HTML/CSS', 'Git', 'PostgreSQL', 'MongoDB', 'Tailwind CSS', 'Express.js', 'Firebase'].map(skill => <span key={skill} className="skill-badge">
-                      {skill}
-                    </span>)}
+                  <span className="skill-badge">JavaScript</span>
+                  <span className="skill-badge">TypeScript</span>
+                  <span className="skill-badge">React</span>
+                  <span className="skill-badge">Node.js</span>
+                  <span className="skill-badge">Python</span>
+                  <span className="skill-badge">HTML/CSS</span>
+                  <span className="skill-badge">Git</span>
+                  <span className="skill-badge">PostgreSQL</span>
+                  <span className="skill-badge">MongoDB</span>
+                  <span className="skill-badge">Tailwind CSS</span>
+                  <span className="skill-badge">Express.js</span>
+                  <span className="skill-badge">Firebase</span>
                 </div>
                 <div className="space-y-4">
                   <h4 className="text-xl font-semibold text-accent">Academic Timeline</h4>
@@ -135,9 +144,10 @@ I enjoy the creative process of building websites—from designing user interfac
               <h3 className="text-2xl font-bold mb-3 text-primary">Clash of Keys</h3>
               <p className="text-muted-foreground mb-4">Developed an engaging typing speed game using HTML, CSS, and JavaScript to help users improve typing accuracy and speed through real-time feedback and interactive UI elements</p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {['Node.js', 'Express', 'MongoDB', 'Spotify API'].map(tech => <span key={tech} className="skill-badge text-xs">
-                    {tech}
-                  </span>)}
+                <span className="skill-badge text-xs">HTML</span>
+                <span className="skill-badge text-xs">CSS</span>
+                <span className="skill-badge text-xs">JavaScript</span>
+                <span className="skill-badge text-xs">Game Design</span>
               </div>
               <div className="flex space-x-4">
                 <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
@@ -158,9 +168,11 @@ I enjoy the creative process of building websites—from designing user interfac
               <h3 className="text-2xl font-bold mb-3 text-primary">Arogya sreenidhi</h3>
               <p className="text-muted-foreground mb-4">Built a user-friendly web platform enabling online food ordering, real-time tracking, digital payments, and notifications to improve efficiency for students and canteen staff.</p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {['Python', 'Flask', 'React', 'D3.js', 'PostgreSQL'].map(tech => <span key={tech} className="skill-badge text-xs">
-                    {tech}
-                  </span>)}
+                <span className="skill-badge text-xs">Python</span>
+                <span className="skill-badge text-xs">Flask</span>
+                <span className="skill-badge text-xs">React</span>
+                <span className="skill-badge text-xs">D3.js</span>
+                <span className="skill-badge text-xs">PostgreSQL</span>
               </div>
               <div className="flex space-x-4">
                 <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
