@@ -346,9 +346,7 @@ I enjoy the creative process of building websites—from designing user interfac
             <p className="text-muted-foreground">
               © 2023 Alex Chen. Built with passion and futuristic vibes.
             </p>
-            <p className="text-sm text-accent">
-              Designed with glassmorphism • Powered by modern CSS
-            </p>
+            <p className="text-sm text-accent">Copy rights Reserved</p>
           </div>
         </div>
       </footer>
