@@ -231,7 +231,7 @@ I enjoy the creative process of building websites—from designing user interfac
                 <div className="glass rounded-lg p-4">
                   <h4 className="font-bold text-primary">Full Stack Web Development</h4>
                   <p className="text-muted-foreground">EduSkills</p>
-                  <p className="text-sm text-accent">July = 2025</p>
+                  <p className="text-sm text-accent">July - 2025</p>
                 </div>
                 <div className="glass rounded-lg p-4">
                   <h4 className="font-bold text-primary">CSS</h4>
