@@ -17,7 +17,7 @@ const Index = () => {
               <a href="#about" className="hover:text-primary transition-colors duration-300">About</a>
               <a href="#projects" className="hover:text-primary transition-colors duration-300">Projects</a>
               
-              <a href="#resume" className="hover:text-primary transition-colors duration-300">Resume</a>
+              <a href="#resume" className="hover:text-primary transition-colors duration-300">Certifications</a>
               <a href="#contact" className="hover:text-primary transition-colors duration-300">Contact</a>
             </div>
           </div>
