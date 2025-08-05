@@ -44,9 +44,7 @@ const Index = () => {
               <a href="#contact" className="text-primary hover:text-secondary transition-colors duration-300">
                 Get In Touch
               </a>
-              <a href="#resume" className="text-primary hover:text-secondary transition-colors duration-300">
-                Download Resume
-              </a>
+              
             </div>
           </div>
         </div>
