@@ -233,40 +233,40 @@ I enjoy the creative process of building websites—from designing user interfac
               <div className="space-y-4">
                 <div className="glass rounded-lg p-4">
                   <h4 className="font-bold text-primary">Full Stack Web Development</h4>
-                  <p className="text-muted-foreground">FreeCodeCamp</p>
-                  <p className="text-sm text-accent">2023</p>
+                  <p className="text-muted-foreground">EduSkills</p>
+                  <p className="text-sm text-accent">July = 2025</p>
                 </div>
                 <div className="glass rounded-lg p-4">
-                  <h4 className="font-bold text-primary">JavaScript Algorithms & Data Structures</h4>
-                  <p className="text-muted-foreground">FreeCodeCamp</p>
-                  <p className="text-sm text-accent">2023</p>
+                  <h4 className="font-bold text-primary">CSS</h4>
+                  <p className="text-muted-foreground">Simplilearn</p>
+                  <p className="text-sm text-accent">April - 2025</p>
                 </div>
                 <div className="glass rounded-lg p-4">
-                  <h4 className="font-bold text-primary">React Development Fundamentals</h4>
-                  <p className="text-muted-foreground">Coursera</p>
-                  <p className="text-sm text-accent">2023</p>
+                  <h4 className="font-bold text-primary">Language Eficency certificate</h4>
+                  <p className="text-muted-foreground">EF SET</p>
+                  <p className="text-sm text-accent">May - 2024</p>
                 </div>
                 <div className="glass rounded-lg p-4">
-                  <h4 className="font-bold text-primary">Node.js Backend Development</h4>
-                  <p className="text-muted-foreground">Udemy</p>
-                  <p className="text-sm text-accent">2023</p>
+                  <h4 className="font-bold text-primary">C programming</h4>
+                  <p className="text-muted-foreground">Code Tantra</p>
+                  <p className="text-sm text-accent">April - 2024</p>
                 </div>
               </div>
               <div className="space-y-4">
                 <div className="glass rounded-lg p-4">
-                  <h4 className="font-bold text-primary">MongoDB Database Design</h4>
-                  <p className="text-muted-foreground">MongoDB University</p>
-                  <p className="text-sm text-accent">2023</p>
+                  <h4 className="font-bold text-primary">HTML</h4>
+                  <p className="text-muted-foreground">Simplilearn</p>
+                  <p className="text-sm text-accent">April - 2025</p>
                 </div>
                 <div className="glass rounded-lg p-4">
-                  <h4 className="font-bold text-primary">Git Version Control</h4>
-                  <p className="text-muted-foreground">GitHub Learning Lab</p>
-                  <p className="text-sm text-accent">2023</p>
+                  <h4 className="font-bold text-primary">AI tools expert</h4>
+                  <p className="text-muted-foreground">Be10x</p>
+                  <p className="text-sm text-accent">May - 2025</p>
                 </div>
                 <div className="glass rounded-lg p-4">
-                  <h4 className="font-bold text-primary">Responsive Web Design</h4>
-                  <p className="text-muted-foreground">FreeCodeCamp</p>
-                  <p className="text-sm text-accent">2023</p>
+                  <h4 className="font-bold text-primary">Master SQL</h4>
+                  <p className="text-muted-foreground">aifortechies</p>
+                  <p className="text-sm text-accent">August - 2025</p>
                 </div>
               </div>
             </div>
