@@ -16,7 +16,7 @@ const Index = () => {
               <a href="#hero" className="hover:text-primary transition-colors duration-300">Home</a>
               <a href="#about" className="hover:text-primary transition-colors duration-300">About</a>
               <a href="#projects" className="hover:text-primary transition-colors duration-300">Projects</a>
-              <a href="#blog" className="hover:text-primary transition-colors duration-300">Blog</a>
+              
               <a href="#resume" className="hover:text-primary transition-colors duration-300">Resume</a>
               <a href="#contact" className="hover:text-primary transition-colors duration-300">Contact</a>
             </div>
@@ -188,49 +188,6 @@ I enjoy the creative process of building websites—from designing user interfac
         </div>
       </section>
 
-      {/* Blog Section */}
-      <section id="blog" className="py-20 px-6">
-        <div className="container mx-auto max-w-6xl">
-          <h2 className="text-4xl font-bold mb-12 text-center text-glow animate-slide-in-up">Latest Blog Posts</h2>
-          <div className="grid md:grid-cols-3 gap-8">
-            {/* Blog Post 1 */}
-            <div className="glass-card animate-slide-in-left">
-              <div className="h-32 glass rounded-lg mb-6 flex items-center justify-center">
-                <div className="text-4xl animate-glow">💻</div>
-              </div>
-              <h3 className="text-xl font-bold mb-3 text-primary">Getting Started with React Hooks</h3>
-              <p className="text-muted-foreground mb-4 text-sm">
-                A comprehensive guide to understanding and implementing React Hooks in your projects.
-              </p>
-              <div className="text-xs text-accent">December 15, 2023</div>
-            </div>
-
-            {/* Blog Post 2 */}
-            <div className="glass-card animate-slide-in-up">
-              <div className="h-32 glass rounded-lg mb-6 flex items-center justify-center">
-                <div className="text-4xl animate-glow">🔧</div>
-              </div>
-              <h3 className="text-xl font-bold mb-3 text-primary">Building APIs with Node.js</h3>
-              <p className="text-muted-foreground mb-4 text-sm">
-                Learn the fundamentals of creating RESTful APIs using Node.js and Express.
-              </p>
-              <div className="text-xs text-accent">December 10, 2023</div>
-            </div>
-
-            {/* Blog Post 3 */}
-            <div className="glass-card animate-slide-in-right">
-              <div className="h-32 glass rounded-lg mb-6 flex items-center justify-center">
-                <div className="text-4xl animate-glow">🎨</div>
-              </div>
-              <h3 className="text-xl font-bold mb-3 text-primary">CSS Grid vs Flexbox</h3>
-              <p className="text-muted-foreground mb-4 text-sm">
-                Understanding when to use CSS Grid vs Flexbox for your layout needs.
-              </p>
-              <div className="text-xs text-accent">December 5, 2023</div>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Resume Section */}
       <section id="resume" className="py-20 px-6">
@@ -241,30 +198,43 @@ I enjoy the creative process of building websites—from designing user interfac
               
             </div>
             <div className="grid md:grid-cols-2 gap-8">
-              <div>
-                <h3 className="text-2xl font-semibold mb-4 text-secondary">Education</h3>
-                <div className="space-y-4">
-                  <div className="glass rounded-lg p-4">
-                    
-                    
-                    
-                    
-                  </div>
+              <div className="space-y-4">
+                <div className="glass rounded-lg p-4">
+                  <h4 className="font-bold text-primary">Full Stack Web Development</h4>
+                  <p className="text-muted-foreground">FreeCodeCamp</p>
+                  <p className="text-sm text-accent">2023</p>
+                </div>
+                <div className="glass rounded-lg p-4">
+                  <h4 className="font-bold text-primary">JavaScript Algorithms & Data Structures</h4>
+                  <p className="text-muted-foreground">FreeCodeCamp</p>
+                  <p className="text-sm text-accent">2023</p>
+                </div>
+                <div className="glass rounded-lg p-4">
+                  <h4 className="font-bold text-primary">React Development Fundamentals</h4>
+                  <p className="text-muted-foreground">Coursera</p>
+                  <p className="text-sm text-accent">2023</p>
+                </div>
+                <div className="glass rounded-lg p-4">
+                  <h4 className="font-bold text-primary">Node.js Backend Development</h4>
+                  <p className="text-muted-foreground">Udemy</p>
+                  <p className="text-sm text-accent">2023</p>
                 </div>
               </div>
-              <div>
-                
-                <div className="space-y-4">
-                  <div className="glass rounded-lg p-4">
-                    <h4 className="font-bold text-primary">Full Stack Web Development</h4>
-                    <p className="text-muted-foreground">FreeCodeCamp</p>
-                    <p className="text-sm text-accent">2023</p>
-                  </div>
-                  <div className="glass rounded-lg p-4">
-                    <h4 className="font-bold text-primary">JavaScript Algorithms & Data Structures</h4>
-                    <p className="text-muted-foreground">FreeCodeCamp</p>
-                    <p className="text-sm text-accent">2023</p>
-                  </div>
+              <div className="space-y-4">
+                <div className="glass rounded-lg p-4">
+                  <h4 className="font-bold text-primary">MongoDB Database Design</h4>
+                  <p className="text-muted-foreground">MongoDB University</p>
+                  <p className="text-sm text-accent">2023</p>
+                </div>
+                <div className="glass rounded-lg p-4">
+                  <h4 className="font-bold text-primary">Git Version Control</h4>
+                  <p className="text-muted-foreground">GitHub Learning Lab</p>
+                  <p className="text-sm text-accent">2023</p>
+                </div>
+                <div className="glass rounded-lg p-4">
+                  <h4 className="font-bold text-primary">Responsive Web Design</h4>
+                  <p className="text-muted-foreground">FreeCodeCamp</p>
+                  <p className="text-sm text-accent">2023</p>
                 </div>
               </div>
             </div>
