@@ -76,11 +76,11 @@ I enjoy the creative process of building websites—from designing user interfac
                   <span className="skill-badge">HTML/CSS</span>
                   <span className="skill-badge">Git</span>
                   <span className="skill-badge">SQL</span>
+                  <span className="skill-badge">DSA</span>
+                  <span className="skill-badge">OOP's </span>
                   <span className="skill-badge">
                 </span>
-                  <span className="skill-badge">Tailwind CSS</span>
-                  <span className="skill-badge">Express.js</span>
-                  <span className="skill-badge">Firebase</span>
+                  <span className="skill-badge">Live Server</span>
                 </div>
                 <div className="space-y-4">
                   <h4 className="text-xl font-semibold text-accent">Academic Timeline</h4>
