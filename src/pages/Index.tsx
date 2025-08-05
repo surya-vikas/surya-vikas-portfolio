@@ -113,9 +113,8 @@ I enjoy the creative process of building websites—from designing user interfac
           <div className="project-grid">
             {/* Project 1 */}
             <div className="glass-card animate-slide-in-up">
-              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center">
-                <div className="text-6xl animate-glow">
-              </div>
+              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500&h=300&fit=crop" alt="Barcode Generator" className="w-full h-full object-cover rounded-lg" />
               </div>
               <h3 className="text-2xl font-bold mb-3 text-primary">Barcode Generator</h3>
               <p className="text-muted-foreground mb-4">Built a responsive web application using HTML, CSS, and JavaScript that dynamically generates barcodes from user input, offering real-time preview and download functionality.</p>
@@ -137,9 +136,8 @@ I enjoy the creative process of building websites—from designing user interfac
 
             {/* Project 2 */}
             <div className="glass-card animate-slide-in-up">
-              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center">
-                <div className="text-6xl animate-glow">
-              </div>
+              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=500&h=300&fit=crop" alt="Clash of Keys" className="w-full h-full object-cover rounded-lg" />
               </div>
               <h3 className="text-2xl font-bold mb-3 text-primary">Clash of Keys</h3>
               <p className="text-muted-foreground mb-4">Developed an engaging typing speed game using HTML, CSS, and JavaScript to help users improve typing accuracy and speed through real-time feedback and interactive UI elements</p>
@@ -161,9 +159,8 @@ I enjoy the creative process of building websites—from designing user interfac
 
             {/* Project 3 */}
             <div className="glass-card animate-slide-in-up">
-              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center">
-                <div className="text-6xl animate-glow">
-              </div>
+              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&h=300&fit=crop" alt="Arogya sreenidhi" className="w-full h-full object-cover rounded-lg" />
               </div>
               <h3 className="text-2xl font-bold mb-3 text-primary">Arogya sreenidhi</h3>
               <p className="text-muted-foreground mb-4">Built a user-friendly web platform enabling online food ordering, real-time tracking, digital payments, and notifications to improve efficiency for students and canteen staff.</p>
@@ -172,8 +169,42 @@ I enjoy the creative process of building websites—from designing user interfac
                 <span className="skill-badge text-xs">Canva</span>
                 <span className="skill-badge text-xs">React</span>
                 <span className="skill-badge text-xs">Java Script</span>
-                <span className="skill-badge text-xs">Poster my wall
-              </span>
+                <span className="skill-badge text-xs">Poster my wall</span>
+              </div>
+            </div>
+
+            {/* Project 4 - Design Project */}
+            <div className="glass-card animate-slide-in-up">
+              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=500&h=300&fit=crop" alt="Creative Portfolio" className="w-full h-full object-cover rounded-lg" />
+              </div>
+              <h3 className="text-2xl font-bold mb-3 text-primary">Creative Portfolio Design</h3>
+              <p className="text-muted-foreground mb-4">Designed a modern, visually appealing portfolio website with focus on user experience, color theory, and responsive layouts using Figma and Adobe Creative Suite.</p>
+              <div className="flex flex-wrap gap-2 mb-4">
+                <span className="skill-badge text-xs">Figma</span>
+                <span className="skill-badge text-xs">Adobe XD</span>
+                <span className="skill-badge text-xs">Photoshop</span>
+                <span className="skill-badge text-xs">UI/UX</span>
+              </div>
+              <div className="flex space-x-4">
+                <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
+                  Live Demo →
+                </a>
+              </div>
+            </div>
+
+            {/* Project 5 */}
+            <div className="glass-card animate-slide-in-up">
+              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
+                <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&h=300&fit=crop" alt="Task Management App" className="w-full h-full object-cover rounded-lg" />
+              </div>
+              <h3 className="text-2xl font-bold mb-3 text-primary">Task Management App</h3>
+              <p className="text-muted-foreground mb-4">Developed a full-stack task management application with real-time updates, user authentication, and collaborative features using React, Node.js, and MongoDB.</p>
+              <div className="flex flex-wrap gap-2 mb-4">
+                <span className="skill-badge text-xs">React</span>
+                <span className="skill-badge text-xs">Node.js</span>
+                <span className="skill-badge text-xs">MongoDB</span>
+                <span className="skill-badge text-xs">Express</span>
               </div>
               <div className="flex space-x-4">
                 <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
