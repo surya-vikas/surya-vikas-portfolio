@@ -69,14 +69,15 @@ I enjoy the creative process of building websites—from designing user interfac
                 <h3 className="text-2xl font-semibold text-secondary">Skills & Technologies</h3>
                 <div className="flex flex-wrap gap-3">
                   <span className="skill-badge">JavaScript</span>
-                  <span className="skill-badge">TypeScript</span>
+                  <span className="skill-badge">Java</span>
                   <span className="skill-badge">React</span>
-                  <span className="skill-badge">Node.js</span>
-                  <span className="skill-badge">Python</span>
+                  <span className="skill-badge">Pytho</span>
+                  <span className="skill-badge">VS code</span>
                   <span className="skill-badge">HTML/CSS</span>
                   <span className="skill-badge">Git</span>
-                  <span className="skill-badge">PostgreSQL</span>
-                  <span className="skill-badge">MongoDB</span>
+                  <span className="skill-badge">SQL</span>
+                  <span className="skill-badge">
+                </span>
                   <span className="skill-badge">Tailwind CSS</span>
                   <span className="skill-badge">Express.js</span>
                   <span className="skill-badge">Firebase</span>
