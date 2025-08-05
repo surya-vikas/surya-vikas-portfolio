@@ -147,7 +147,7 @@ I enjoy the creative process of building websites—from designing user interfac
                 <span className="skill-badge text-xs">HTML</span>
                 <span className="skill-badge text-xs">CSS</span>
                 <span className="skill-badge text-xs">JavaScript</span>
-                <span className="skill-badge text-xs">Game Design</span>
+                <span className="skill-badge text-xs">React</span>
               </div>
               <div className="flex space-x-4">
                 <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
@@ -168,11 +168,12 @@ I enjoy the creative process of building websites—from designing user interfac
               <h3 className="text-2xl font-bold mb-3 text-primary">Arogya sreenidhi</h3>
               <p className="text-muted-foreground mb-4">Built a user-friendly web platform enabling online food ordering, real-time tracking, digital payments, and notifications to improve efficiency for students and canteen staff.</p>
               <div className="flex flex-wrap gap-2 mb-4">
-                <span className="skill-badge text-xs">Python</span>
-                <span className="skill-badge text-xs">Flask</span>
+                <span className="skill-badge text-xs">Figma</span>
+                <span className="skill-badge text-xs">Canva</span>
                 <span className="skill-badge text-xs">React</span>
-                <span className="skill-badge text-xs">D3.js</span>
-                <span className="skill-badge text-xs">PostgreSQL</span>
+                <span className="skill-badge text-xs">Java Script</span>
+                <span className="skill-badge text-xs">Poster my wall
+              </span>
               </div>
               <div className="flex space-x-4">
                 <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
