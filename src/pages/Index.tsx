@@ -69,15 +69,14 @@ I enjoy the creative process of building websites—from designing user interfac
                   <span className="skill-badge">JavaScript</span>
                   <span className="skill-badge">Java</span>
                   <span className="skill-badge">React</span>
-                  <span className="skill-badge">Pytho</span>
+                  <span className="skill-badge">Python</span>
                   <span className="skill-badge">VS code</span>
                   <span className="skill-badge">HTML/CSS</span>
                   <span className="skill-badge">Git</span>
                   <span className="skill-badge">SQL</span>
                   <span className="skill-badge">DSA</span>
                   <span className="skill-badge">OOP's </span>
-                  <span className="skill-badge">
-                </span>
+                  <span className="skill-badge">ATOM</span>
                   <span className="skill-badge">Live Server</span>
                 </div>
                 <div className="space-y-4">
