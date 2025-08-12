@@ -318,9 +318,7 @@ I enjoy the creative process of building websites—from designing user interfac
                 <span className="text-2xl"></span>
               </a>
             </div>
-            <p className="text-muted-foreground">
-              © 2023 Alex Chen. Built with passion and futuristic vibes.
-            </p>
+            <p className="text-muted-foreground">© 2025 Surya Vikas. Built with passion.</p>
             <p className="text-sm text-accent">Copy rights Reserved</p>
           </div>
         </div>
