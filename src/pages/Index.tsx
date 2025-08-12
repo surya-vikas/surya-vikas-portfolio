@@ -87,7 +87,7 @@ I enjoy the creative process of building websites—from designing user interfac
                     <div className="glass rounded-lg p-4">
                       <h5 className="font-semibold text-primary">2023 - present</h5>
                       <p>Bachelor of Technology in Information Technology</p>
-                      <p className="text-sm text-muted-foreground">GPA: 9.12/10/0</p>
+                      <p className="text-sm text-muted-foreground">GPA: 9.12/10</p>
                     </div>
                     <div className="glass rounded-lg p-4">
                       <h5 className="font-semibold text-primary">2021 - 2023</h5>
