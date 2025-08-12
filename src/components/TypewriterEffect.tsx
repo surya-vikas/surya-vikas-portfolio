@@ -41,9 +41,9 @@ const TypewriterEffect = () => {
   }, [currentText, currentRoleIndex, isTyping, roles]);
   
   return (
-    <span className="inline-block min-w-[200px] text-left">
+    <span className="inline-block min-w-[200px] text-left font-orbitron font-bold text-glow">
       {currentText}
-      <span className="animate-pulse">|</span>
+      <span className="animate-pulse text-primary">|</span>
     </span>
   );
 };
