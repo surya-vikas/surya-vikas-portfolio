@@ -123,10 +123,10 @@ I enjoy the creative process of building websites—from designing user interfac
                 <span className="skill-badge text-xs">Js barcode</span>
               </div>
               <div className="flex space-x-4">
-                <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
+                <a href="https://surya-vikas.github.io/barcode-genrator/" className="text-primary hover:text-secondary transition-colors duration-300">
                   Live Demo →
                 </a>
-                <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
+                <a href="https://github.com/surya-vikas/barcode-genrator" className="text-primary hover:text-secondary transition-colors duration-300">
                   GitHub →
                 </a>
               </div>
@@ -146,10 +146,10 @@ I enjoy the creative process of building websites—from designing user interfac
                 <span className="skill-badge text-xs">React</span>
               </div>
               <div className="flex space-x-4">
-                <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
+                <a href="https://surya-vikas.github.io/clash-of-keys/" className="text-primary hover:text-secondary transition-colors duration-300">
                   Live Demo →
                 </a>
-                <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
+                <a href="https://github.com/surya-vikas/clash-of-keys" className="text-primary hover:text-secondary transition-colors duration-300">
                   GitHub →
                 </a>
               </div>
@@ -191,28 +191,6 @@ I enjoy the creative process of building websites—from designing user interfac
               </div>
             </div>
 
-            {/* Project 5 */}
-            <div className="glass-card animate-slide-in-up">
-              <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
-                <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&h=300&fit=crop" alt="Task Management App" className="w-full h-full object-cover rounded-lg" />
-              </div>
-              <h3 className="text-2xl font-bold mb-3 text-primary">Task Management App</h3>
-              <p className="text-muted-foreground mb-4">Developed a full-stack task management application with real-time updates, user authentication, and collaborative features using React, Node.js, and MongoDB.</p>
-              <div className="flex flex-wrap gap-2 mb-4">
-                <span className="skill-badge text-xs">React</span>
-                <span className="skill-badge text-xs">Node.js</span>
-                <span className="skill-badge text-xs">MongoDB</span>
-                <span className="skill-badge text-xs">Express</span>
-              </div>
-              <div className="flex space-x-4">
-                <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
-                  Live Demo →
-                </a>
-                <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
-                  GitHub →
-                </a>
-              </div>
-            </div>
           </div>
         </div>
       </section>
