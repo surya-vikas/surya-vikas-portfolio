@@ -1,3 +1,5 @@
+import TypewriterEffect from '@/components/TypewriterEffect';
+
 const Index = () => {
   return <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
       {/* Floating Background Orbs */}
@@ -30,7 +32,7 @@ const Index = () => {
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl font-bold text-glow">Surya Vikas</h1>
             <h2 className="text-2xl md:text-3xl text-secondary text-glow-secondary">
-              Student & Aspiring Full Stack Developer
+              I AM A <TypewriterEffect />
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
               Passionate about learning and building web projects that make a difference
