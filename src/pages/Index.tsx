@@ -288,8 +288,8 @@ I enjoy the creative process of building websites—from designing user interfac
         {/* RIGHT SIDE - IMAGE */}
         <div className="flex justify-center">
           <img 
-            src="Screenshot_2025-08-12_220828-removebg-preview.png" 
-            alt="Contact illustration" 
+            src="qrcontact.png" 
+            alt="Image not Available" 
             className="max-w-full rounded-lg shadow-lg"
           />
         </div>
