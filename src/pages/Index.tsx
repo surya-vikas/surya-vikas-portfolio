@@ -187,7 +187,7 @@ I enjoy the creative process of building websites—from designing user interfac
                 <span className="skill-badge text-xs">UI/UX</span>
               </div>
               <div className="flex space-x-4">
-                <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
+                <a href="https://drive.google.com/drive/folders/1cUVu2f8aIC1avV33dzWQBISYFh2l9enz?usp=sharing" className="text-primary hover:text-secondary transition-colors duration-300">
                   Live Demo →
                 </a>
               </div>
@@ -253,54 +253,51 @@ I enjoy the creative process of building websites—from designing user interfac
 
       {/* Contact Section */}
       <section id="contact" className="py-20 px-6">
-        <div className="container mx-auto max-w-4xl">
-          <div className="glass-card animate-slide-in-up">
-            <h2 className="text-4xl font-bold mb-8 text-center text-glow">Get In Touch</h2>
-            <div className="grid md:grid-cols-2 gap-12">
-              <div className="space-y-6">
-                <h3 className="text-2xl font-semibold text-secondary">Let's Connect</h3>
-                <p className="text-muted-foreground">
-                  I'm always excited to connect with fellow developers, potential collaborators, 
-                  or anyone interested in technology. Feel free to reach out!
-                </p>
-                <div className="space-y-4">
-                  <div className="flex items-center space-x-3">
-                    <div className="text-primary text-xl">📧</div>
-                    <span>suryavikas1223@gmail.com</span>
-                  </div>
-                  <div className="flex items-center space-x-3">
-                    <div className="text-primary text-xl">🔗</div>
-                    <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">linkedin.com/in/surya-vikas-thipirishetty</a>
-                  </div>
-                  <div className="flex items-center space-x-3">
-                    <div className="text-primary text-xl">🐙</div>
-                    <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">github.com/surya-vikas</a>
-                  </div>
-                </div>
-              </div>
-              <div>
-                <form className="space-y-6">
-                  <div>
-                    <label className="block text-sm font-medium mb-2">Name</label>
-                    <input type="text" className="glass-input w-full" placeholder="Your Name" />
-                  </div>
-                  <div>
-                    <label className="block text-sm font-medium mb-2">Email</label>
-                    <input type="email" className="glass-input w-full" placeholder="your.email@example.com" />
-                  </div>
-                  <div>
-                    <label className="block text-sm font-medium mb-2">Message</label>
-                    <textarea rows={4} className="glass-input w-full" placeholder="Your message here..."></textarea>
-                  </div>
-                  <button type="submit" className="neon-button w-full">
-                    Send Message
-                  </button>
-                </form>
-              </div>
+  <div className="container mx-auto max-w-4xl">
+    <div className="glass-card animate-slide-in-up">
+      <h2 className="text-4xl font-bold mb-8 text-center text-glow">Get In Touch</h2>
+      <div className="grid md:grid-cols-2 gap-12 items-center">
+        
+        {/* LEFT SIDE */}
+        <div className="space-y-6">
+          <h3 className="text-2xl font-semibold text-secondary">Let's Connect</h3>
+          <p className="text-muted-foreground">
+            I'm always excited to connect with fellow developers, potential collaborators, 
+            or anyone interested in technology. Feel free to reach out!
+          </p>
+          <div className="space-y-4">
+            <div className="flex items-center space-x-3">
+              <div className="text-primary text-xl">📧</div>
+              <span>suryavikas1223@gmail.com</span>
+            </div>
+            <div className="flex items-center space-x-3">
+              <div className="text-primary text-xl">🔗</div>
+              <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
+                linkedin.com/in/surya-vikas-thipirishetty
+              </a>
+            </div>
+            <div className="flex items-center space-x-3">
+              <div className="text-primary text-xl">🐙</div>
+              <a href="#" className="text-primary hover:text-secondary transition-colors duration-300">
+                github.com/surya-vikas
+              </a>
             </div>
           </div>
         </div>
-      </section>
+        
+        {/* RIGHT SIDE - IMAGE */}
+        <div className="flex justify-center">
+          <img 
+            src="Screenshot_2025-08-12_220828-removebg-preview.png" 
+            alt="Contact illustration" 
+            className="max-w-full rounded-lg shadow-lg"
+          />
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
 
       {/* Footer */}
       <footer className="py-12 px-6 border-t glass-border">
@@ -320,7 +317,7 @@ I enjoy the creative process of building websites—from designing user interfac
                 <span className="text-2xl"></span>
               </a>
             </div>
-            <p className="text-muted-foreground">© 2025 Surya Vikas. Built with passion.</p>
+            <p className="text-muted-foreground">© 2025 Surya Vikas. Your next collaborator in innovation</p>
             <p className="text-sm text-accent">Copy rights Reserved</p>
           </div>
         </div>
