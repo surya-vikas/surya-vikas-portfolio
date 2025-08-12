@@ -176,11 +176,11 @@ I enjoy the creative process of building websites—from designing user interfac
               <div className="h-48 glass rounded-lg mb-6 flex items-center justify-center overflow-hidden">
                 <img src="https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?w=500&h=300&fit=crop" alt="Creative Portfolio" className="w-full h-full object-cover rounded-lg" />
               </div>
-              <h3 className="text-2xl font-bold mb-3 text-primary">Creative Portfolio Design</h3>
-              <p className="text-muted-foreground mb-4">Designed a modern, visually appealing portfolio website with focus on user experience, color theory, and responsive layouts using Figma and Adobe Creative Suite.</p>
+              <h3 className="text-2xl font-bold mb-3 text-primary">Designing Posters</h3>
+              <p className="text-muted-foreground mb-4">Created and designed over 100 visually compelling posters and banners for diverse applications, including marketing campaigns, event promotions, and digital platforms, ensuring brand consistency and audience engagement.</p>
               <div className="flex flex-wrap gap-2 mb-4">
                 <span className="skill-badge text-xs">Figma</span>
-                <span className="skill-badge text-xs">Adobe XD</span>
+                <span className="skill-badge text-xs">Canva</span>
                 <span className="skill-badge text-xs">Photoshop</span>
                 <span className="skill-badge text-xs">UI/UX</span>
               </div>
